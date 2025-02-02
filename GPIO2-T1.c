@@ -63,6 +63,7 @@ int main()
         // 14, 13, 12, 11, 10
         // 5,  6,  7,  8,  9
         // 4,  3,  2,  1,  0
+        
         switch (ledCounter)
         {
         case 0: 

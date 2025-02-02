@@ -68,15 +68,11 @@ Este projeto tem como objetivo consolidar o entendimento sobre o uso de **interr
 ### 📌 Passos
 1. Clone o repositório e entre na pasta do projeto:
    ```sh
-   git clone https://github.com/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/4dot4/U4C4O12T.git
+   cd U4C4O12T
    ```
 2. Compile o código:
-   ```sh
-   mkdir build && cd build
-   cmake ..
-   make
-   ```
+  
 3. Envie o firmware para a placa:
    - Conecte a **BitDogLab** ao PC enquanto pressiona o botão **BOOTSEL**.
    - Arraste o arquivo `.uf2` gerado para a unidade montada no sistema.
@@ -87,19 +83,16 @@ Este projeto tem como objetivo consolidar o entendimento sobre o uso de **interr
 ## 🎥 Demonstração
 Confira o funcionamento do projeto no vídeo abaixo:
 
-[![Vídeo do Projeto](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Vídeo do Projeto]()](https://youtube.com/shorts/gwQdLdeLa_k)
 
 ---
 
 ## 📜 Licença
 Este projeto é de código aberto sob a licença **MIT**.
 
-## 🤝 Contribuições
-Sinta-se à vontade para contribuir! Abra uma **issue** ou envie um **pull request**.
 
 ---
 
 📩 Para dúvidas ou sugestões, entre em contato!
 
-✨ Desenvolvido com paixão pela comunidade de makers! 🚀
 
